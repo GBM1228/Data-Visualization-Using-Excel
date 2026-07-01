@@ -9,6 +9,8 @@ In this project, India Gen z's response data was filtered and used as a case stu
 
 ## Table Of Contents
 
+[Problem Statement](#ProblemStatement)
+
 [Data Sourcing](#DataSourcing)
 
 [Data Preparation](#DataPreparation)
@@ -16,6 +18,16 @@ In this project, India Gen z's response data was filtered and used as a case stu
 [Data Analysis](#DataAnalysis)
 
 [Data Visualization](#DataVisualization)
+
+[Insights](#Insights)
+
+[Recommendation](#Recommendation)
+
+#
+
+## Problem Statement
+
+The purpose of this analysis is to undersatand the career aspiration of GenZ
 
 #
 
@@ -130,6 +142,75 @@ To gain a deeper understanding of Gen Z career aspirations, four comprehensive d
 
   <img width="937" alt="Manager Insight" src="https://github.com/user-attachments/assets/aa74d1b9-da5f-4232-b672-e92151547361">
 
+#
 
-Kindly view the project presentation here [UNDERSTANDING THE CAREER ASPIRATION OF GEN Z PRESENTATION.pptx](https://github.com/user-attachments/files/17202031/UNDERSTANDING.THE.CAREER.ASPIRATION.OF.GEN.Z.PRESENTATION.pptx)
+## Insghts
 
+### Analyzing responses from Indian Gen Z individuals, i identified Gen-Z's top priorities as:
+
+1. Tech/IT careers
+   
+3. Clear goal setting
+   
+5. Supportive leadership
+   
+7. Transparency
+   
+9. Financial stability
+
+#
+
+## Recomendation
+
+### To attract Talent:
+
+1. Target tech and business institutions
+2. Offer competitive salaries (50,000+ rupees)
+3. Clearly outline job goals and growth opportunities
+   
+### To develop and Retain Talent:
+
+1. Provide expert-led training and mentorship
+2. Support education through sponsorships or partnerships
+3. Offer career advancement opportunities
+4. Foster open communication
+
+### To engage Employees:
+
+1. Offer flexible working hours
+2. Set and review goals regularly
+3. Recognize achievements with rewards
+4. Support mental health and well-being
+
+### For effective Leadership: 
+
+1. Communicate clearly and transparently
+2. Balance direction with support
+3. Encourage growth and development
+
+### For competitive Compensation:
+
+1. Regularly review salaries
+2. Offer competitive benefits
+3. Reward outstanding performance
+
+### For social Impact and Partnerships:
+
+1. Incorporate social impact initiatives
+2. Collaborate with educational institutions and industries
+
+### To track Progress:
+
+1. Employee retention rates
+2. Employee satisfaction scores
+3. Training effectiveness
+4. Diversity and inclusion metrics
+5. Salary competitiveness
+
+### Plan Implementation:
+
+1. Short-term (0-2 years): Focus on talent acquisition and development
+2. Mid-term (2-5 years): Develop leadership capabilities
+3. Long-term (5+ years): Foster innovation and social responsibility
+
+By following these recommendations, organizations can effectively attract, retain, and develop Gen Z talent in India.
